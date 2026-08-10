@@ -7,8 +7,12 @@ I am a **Cloud & DevOps Engineer with 7 years of hands-on experience** spanning 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himanshutailor1296&show_icons=true&theme=tokyonight&count_private=true" alt="Himanshu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshutailor1296&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://github.com/himanshutailor1296">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=himanshutailor1296&show_icons=true&theme=tokyonight" alt="Himanshu's GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/himanshutailor1296">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=himanshutailor1296&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
+  </a>
 </p>
 
 ### 🛠️ Tech Stack & Tools
