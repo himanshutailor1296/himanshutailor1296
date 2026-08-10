@@ -6,6 +6,11 @@ I am a **Cloud & DevOps Engineer with 7 years of hands-on experience** spanning 
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshutailor1296&show_icons=true&theme=tokyonight&count_private=true" alt="Himanshu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshutailor1296&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
 ### 🛠️ Tech Stack & Tools
 
 **Cloud Platforms & Infrastructure**
